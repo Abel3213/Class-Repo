@@ -1,9 +1,9 @@
-/* changes the font family */
+/* the astericks selects all the elements in the html and changes their font  */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* changes the background color */
+/* changes the background color for the whole body */
 body {
   background-color: lemonchiffon;
 }
@@ -22,12 +22,12 @@ figure {
   background-color: #f0ead6;
 }
 
-/* makes the font bold */
+/* makes the font bold for the class labled highlighted-text */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* changes the background color */
+/* changes the background color for the id labled contact-section */
 #contact-section {
   background-color: #f0ead6;
 }
